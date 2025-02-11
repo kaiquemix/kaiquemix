@@ -78,9 +78,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/kaiquemix/kaiquemix/output/snake.svg" alt="Snake animation" />
-
-###
