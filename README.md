@@ -1,10 +1,5 @@
 <h2 align="left">Hi 👋! My name is Kaique and I'm a from Brazilian Full Stack Developer</h2>
 
-###
-
-<img align="right" height="150" src="https://scontent.fvix3-1.fna.fbcdn.net/v/t39.30808-6/325764178_1166813924035935_7779257898335137432_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeEf60U2zXooNzxPeuMyNcHIOlo36OR2kBY6Wjfo5HaQFj47PL8l73ZM-bJF1MLqzzPkZBdLQxC4a_x2zbQHKfF_&_nc_ohc=8OFsvX2ejhYQ7kNvgEf_hG8&_nc_oc=Adi_UK0vGk40PwVarSLUbASx_WZSejtb9USbwjiAgCt3sl_zoJmeysheqxW6NBxDxCtvJDddJyHrSTHg94fyixEy&_nc_zt=23&_nc_ht=scontent.fvix3-1.fna&_nc_gid=AaCYsc_BCAZjtUXWi4yrwBO&oh=00_AYBUUyTrxNPKn0s9zTaMgfo5He5J4c6sVX_4FQC3h0EFZA&oe=67B1670D"  />
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
